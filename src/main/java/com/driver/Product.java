@@ -1,6 +1,6 @@
 package com.driver;
 
-public class Product {
+ class Product {
     public Product() {
     }
 
